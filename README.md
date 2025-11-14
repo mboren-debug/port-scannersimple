@@ -9,5 +9,7 @@ This program is a simple port scanner that allows you to identify if ports on yo
 As I update this script, I will add optimizations I have made to it here. (Current Version: 1.0.0)
 
 ## Stipulations
-- This program is to be used only on your own network, or a network on which one has been permitted to port scan. Please do not use it for any other purpose.
+- This tool is for educational and authorized security testing only.
+Scanning systems without explicit permission is illegal.
+The authors are not responsible for misuse.
 - This is a very simple program currently, but I intend to update and expand its capabilities in future updates, as well as upload additional scripts to my repository.
